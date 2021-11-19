@@ -13,7 +13,8 @@ For the Pair Class -->  *Create a constructor;
 For the Pairing Class --> *Create a private method called getList;
 			  *Create a private method called ObtainPairs
 			  (this method must return a a vector of type Pair);
-		          *Create a constructor;
+		          *Create a constructor.
+			  
 Example of input:
 String s1 = "Person 1, Person 3, Person 5";
 String s2 = "Person 2, Person 4, Person 6";
