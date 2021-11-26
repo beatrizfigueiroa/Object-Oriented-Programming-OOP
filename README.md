@@ -6,14 +6,14 @@ Activity proposed: Make all Junit tests pass
 
 Hints:
 
-For the Pair Class -->  *Create a constructor;
-		        *Override the toString method;
-		        *Override the equals method
+For the Pair Class:  1.Create a constructor;
+		     2.Override the toString method;
+		     3.Override the equals method
 
-For the Pairing Class --> *Create a private method called getList;
-			  *Create a private method called ObtainPairs
+For the Pairing Class: 1.Create a private method called getList;
+		       2.Create a private method called ObtainPairs
 			  (this method must return a a vector of type Pair);
-		          *Create a constructor.
+		        3.Create a constructor.
 			  
 Example of input:
 String s1 = "Person 1, Person 3, Person 5";
